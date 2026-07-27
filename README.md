@@ -15,7 +15,6 @@
 - 🚀 Building projects that solve real-world problems
 - 📫 Reach me at: **ilmanaaz0911@gmail.com**
 
----
 
 ## 🌐 Connect With Me
 
@@ -23,6 +22,9 @@
 <a href="https://github.com/Ilma09" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
+
+
+
 
 <a href="https://linkedin.com/in/linkedin.com/in/ilma-naz-098161289" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
@@ -59,67 +61,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
----
 
-## 🚀 Featured Projects
 
-### 📌 Taskflow — Full Stack Task Manager
-
-🔗 **Live Demo:** https://task-manager-ilma09.vercel.app
-
-📂 **GitHub:** https://github.com/Ilma09/task-manager
-
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT
-
-✔️ Secure Authentication
-
-✔️ CRUD Operations
-
-✔️ Kanban Task Board
-
-✔️ Responsive UI
-
----
-
-### 📌 AI Resume Builder
-
-📂 https://github.com/Ilma09/AI-Resume-Builder
-
----
-
-### 📌 Horticulture Trendz
-
-Market Analysis & Data Visualization Platform
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ilma09&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilma09&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ilma09&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ilma09&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -129,17 +72,7 @@ Market Analysis & Data Visualization Platform
 
 </p>
 
----
 
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ilma09&style=for-the-badge&color=blue"/>
-
-</p>
-
----
 
 ## 💬 Favourite Quote
 
