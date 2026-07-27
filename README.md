@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ilma Naz</h1>
-<h3 align="center">💻 Full Stack Developer | CSE Student | Open Source Contributor | DSA Enthusiast</h3>
+<h1 align="center">Hi, I'm Ilma</h1>
+<h3 align="center">💻 Aspiring Software Engineer | MERN Stack Developer | Python Developer | AI & ML Enthusiast | DSA</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
