@@ -2,7 +2,7 @@
 <h3 align="center">💻 Aspiring Software Engineer | MERN Stack Developer | Python Developer | AI & ML Enthusiast | DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
@@ -80,5 +80,6 @@
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">Thanks for visiting my profile! </h3>
+
 <h4 align="center">If you like my projects, consider giving them a ⭐</h4>
